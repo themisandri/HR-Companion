@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 02 19:59:44 EEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-d654-5a96-000007b07600 
+on database directory C:\Users\themi\OneDrive\Desktop\HRCompanion\dist\databases\Login with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/themi/OneDrive/Desktop/HRCompanion/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\themi\OneDrive\Desktop\HRCompanion\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
